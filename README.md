@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there ⛄︎
 
-<!--
-**jamesabennettV/jamesabennettV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm James Bennett (he/him) and I'm a Data Analyst based in Redwood City, California.
 
-Here are some ideas to get you started:
+I extract, transform, and load data as preperation then convert it into visual data dashboards for stakeholders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on a data project on the popularity and sales in 2nd hand clothing and video game tournament event statistics. 
+
+Video essays on Youtube have been a major inspiration for my love of data and answering questions in pop culture, fashion and video games.
+
+I'm looking for help with networking and meeting more people that work with data specifically in business/marketing, government, and supply chain.
+
+Tools & Tech💻
+-------------
+• SQL (MySQL), Tableau, and Excel
+
+• I'm currently practicing my skills in R, Python (numPy, Matplotlib, and Pandas)
+
+Fun Facts about me🤠
+--------------------
+• 🐶I have a family dachshund named Copperpot
+
+• 👑I've won a contest in SF and made local news
+
+• 📖Jujutsu Kaisen is my favorite anime & Berserk my favorite manga
+
+• 📸Hobbies: video essays, fashion/thrifing, & video games
+
+How to reach me!📩
+-----------------
+
+LinkedIn: http://linkedin.com/in/james-bennett-jabv
+
+Email: jamesabennettv@gmail.com
+
