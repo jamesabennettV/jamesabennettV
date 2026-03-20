@@ -10,6 +10,8 @@ Video essays on Youtube have been a major inspiration for my love of data and an
 
 I'm looking for help with networking and meeting more people that work with data specifically in business/marketing, government, and supply chain.
 
+This is my [CV in PDF](https://github.com/jamesabennettV/jamesabennettV/blob/main/James%20Bennett%20Resume.docx.pdf)!
+
 Tools & Tech💻
 -------------
 • SQL (MySQL), Tableau, and Excel
@@ -32,4 +34,3 @@ How to reach me!📩
 LinkedIn: http://linkedin.com/in/james-bennett-jabv
 
 Email: jamesabennettv@gmail.com
-
