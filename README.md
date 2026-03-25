@@ -16,7 +16,7 @@ Tools & Tech💻
 -------------
 • SQL (MySQL), Tableau, and Excel
 
-• I'm currently practicing my skills in R, Python (numPy, Matplotlib, and Pandas)
+• R, Python (numPy, Matplotlib, and Pandas)
 
 Fun Facts about me🤠
 --------------------
